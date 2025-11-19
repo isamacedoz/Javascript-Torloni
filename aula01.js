@@ -41,26 +41,26 @@ comentando varias linhas
 //     console.log("Você é menor de idade,  Baixinho")
 // }
 
-let estacoes = prompt("Digite uma estação do ano:")
+// let estacoes = prompt("Digite uma estação do ano:")
 
-switch (estacoes) {
-    case "Verão":
-        console.log("Muito calor e praia")
-        break;
+// switch (estacoes) {
+//     case "Verão":
+//         console.log("Muito calor e praia")
+//         break;
 
-    case "Outono":
-        console.log("As folhas caem no final")
-        break;
+//     case "Outono":
+//         console.log("As folhas caem no final")
+//         break;
 
-        case "Inverno":
-            console.log("Está muito frio" )
-            break;
+//         case "Inverno":
+//             console.log("Está muito frio" )
+//             break;
 
-            case "Primaveira":
-                console.log("Eu vejo flores em você...")
-                break;
+//             case "Primaveira":
+//                 console.log("Eu vejo flores em você...")
+//                 break;
 
-                default:
-                console.log("Não existe essa estação!!!")
-                break;
-}
+//                 default:
+//                 console.log("Não existe essa estação!!!")
+//                 break;
+// }
